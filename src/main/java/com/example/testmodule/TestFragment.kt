@@ -1,4 +1,6 @@
 package com.example.testmodule
 
-class TestFragment {
+import androidx.fragment.app.Fragment
+
+class TestFragment : Fragment() {
 }
